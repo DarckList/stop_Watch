@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="stop_Watch.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:stop_Watch.UWP"
+    RequestedTheme="Light">
+
+</Application>
